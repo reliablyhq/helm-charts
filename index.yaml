@@ -3,12 +3,12 @@ entries:
   reliably-agent:
   - apiVersion: v2
     appVersion: latest
-    created: "2021-12-16T14:56:01.549800061Z"
+    created: "2021-12-16T14:58:05.606240702Z"
     description: Deploy the Reliably agent in Kubernetes
-    digest: c5e83cf46ed20626d99765fa1fda5012a1b94d0a404873d240219f6b683e8a05
+    digest: 9aae0d816cb1ee191455e011a1ca65853caa4d3ca594d1feca9e84613fcf632e
     name: reliably-agent
     type: application
     urls:
     - https://reliablyhq.github.io/helm-charts/reliably-agent-0.1.0.tgz
     version: 0.1.0
-generated: "2021-12-16T14:56:01.549032855Z"
+generated: "2021-12-16T14:58:05.604762093Z"
